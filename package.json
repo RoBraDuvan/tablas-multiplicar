@@ -1,0 +1,15 @@
+{
+  "name": "2-bases_node",
+  "version": "1.0.0",
+  "description": "Tablas de multiplicar utilizando yargs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Duvan Robra",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
