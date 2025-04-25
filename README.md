@@ -4,4 +4,3 @@ Utilizando Yargs, podemos enviarles a nuestra app los argumentos que necesitamos
 
 Los argumentos son "-h --hasta" "-b --base"
 
-Hola
